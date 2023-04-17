@@ -1,0 +1,41 @@
+.img-section,img{
+    height: 200px;
+    width:200px;
+    border-radius:1000px;
+    
+
+}
+.hello{
+    display:flex;
+    justify-content:space-between;
+    align-items: end;
+    width: 30%;
+    margin-top:20px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #FF6D60;
+    
+}
+.links img{
+    height:40px;
+    width:40px;
+    float: right;
+}
+.content{
+
+    margin-top: 40px;
+    
+
+}
+.div{
+    margin-top:20px;
+}
+li{
+    font-size:16pt;
+    font-weight: 600;
+}
+hr{
+    margin-top: 10px;
+}
